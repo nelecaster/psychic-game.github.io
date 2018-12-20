@@ -1,0 +1,26 @@
+body {
+    background-image: url(../images/background-image.png);
+    background-size: cover;
+}
+
+.main-section {
+    width: 60%;
+    height: 440px;
+    background-color: #fefdfd;
+    top: 15%;
+    position: relative;
+    left: 20%;
+    margin-top: 8%;
+}
+
+.card {
+    width: 35%;
+    margin-left: 33%;
+    margin-top: 12%;
+}
+
+span {
+    display: inline-block;
+    margin-right: 10px;
+}
+
